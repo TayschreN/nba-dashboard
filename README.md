@@ -2,9 +2,9 @@
 
 Análise exploratória de 14 temporadas e 33.316 linhas time-por-jogo da NBA (~16.658 jogos), orientada a 10 perguntas de negócio. Projeto de portfólio focado em storytelling analítico: cada seção parte de uma pergunta, testa uma hipótese nos dados e termina em um insight acionável — inclusive quando o dado contraria a narrativa esperada.
 
-![Dashboard](tela1.png)
-![Dashboard](tela2.png)
-![Dashboard](tela3.png)
+![Dashboard](imagens/tela1.png)
+![Dashboard](imagens/tela2.png)
+![Dashboard](imagens/tela3.png)
 
 
 ## Perguntas respondidas
